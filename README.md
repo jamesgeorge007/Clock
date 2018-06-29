@@ -6,4 +6,4 @@
 
 **Just revisiting those core fundamentals.**
 
-You may check it out [here](https://jamesgeorge007.github.io/Clock/)****
+You may check it out [here](https://jamesgeorge007.github.io/Clock/)
